@@ -12,6 +12,7 @@ The TAG is a sensing device responsible for:
 - Collecting environmental data (humidity, temperature, battery percentage, and time since detaching).
 - Transmitting data to the HUB via BLE.
 - Supporting contact charging for its battery.
+![sensor](assets/Slide2%20-%20sensor.png)
 
 ### Components:
 - **XIAO ESP32C**
@@ -34,6 +35,8 @@ The HUB is a display controller that:
 - Switches active TAGs.
 - Monitors and displays system battery percentage.
 
+![display](assets/Slide3%20-%20display.png)
+
 ### Components:
 - **XIAO ESP32C**  
 - **28BYJ-48 Stepper Motor, Driver & Needle**  
@@ -54,8 +57,10 @@ The HUB is a display controller that:
 
 ## System Communication Diagram
 *(Based on BLE Communication)*
-
+![systemcom](assets/system_communication_diagram.png)
+![infocom](assets/information_communication_diagram.png)
 ---
 
 ## System Workflow
 *(Detailed workflow of TAG and HUB interactions)*
+![systemworkflow](assets/system_workflow_diagram.png)
