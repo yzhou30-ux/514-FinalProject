@@ -1,0 +1,10 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+Brd?,1,SSD1306,,,,Display_OLED:SSD1306_I2C_128x64,
+D?,1,NeoPixel_THT,,,,LED_THT:LED_WS2812B_5050,https://www.adafruit.com/product/1938
+Lipo?,1,Battery,,,,BatteryHolder:Battery_Holder_LiPo_1S,~
+M?,1,Stepper_Motor_bipolar,,,,Motor:Stepper_Motor_Nema17,http://www.infineon.com/dgdl/Application-Note-TLE8110EE_driving_UniPolarStepperMotor_V1.1.pdf?fileId=db3a30431be39b97011be5d0aa0a00b0
+SW?,1,SW_Push,,,,Button_Switch_THT:SW_PUSH_6mm,~
+U?,1,ULN2003,,,,Package_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+U?,1,MP1584,,,,DC_DC_Module:MP1584_Step_Down_Module,
+U?,1,LM317L_SO8,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf
+U?,1,XIAO ESP32C3,,,,XIAO_ESP32C3:xiao_esp32c3,https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf

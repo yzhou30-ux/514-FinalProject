@@ -1,0 +1,5 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+U?,1,HTU21D,,,,Sensor_THT:HTU21D_Temp_Humidity_Module,
+U?,1,XIAO ESP32C3,,,,XIAO_ESP32C3:xiao_esp32c3,https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf
+U?,1,CR2032,,,,"BatteryHolder:BatteryHolder_CR2032_Horizontal_Panasonic
+",
