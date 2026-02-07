@@ -1,5 +1,5 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
-U?,1,HTU21D,,,,Sensor_THT:HTU21D_Temp_Humidity_Module,
-U?,1,XIAO ESP32C3,,,,XIAO_ESP32C3:xiao_esp32c3,https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf
-U?,1,CR2032,,,,"BatteryHolder:BatteryHolder_CR2032_Horizontal_Panasonic
-",
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","C_Polarized_470uF","","","","Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C_HandSolder","~"
+"LIR2032","1","Battery 3.7V","","","","Battery:BatteryHolder_Keystone_1057_1x2032","~"
+"U1","1","XIAO ESP32C3","","","","RF_Module:MCU_Seeed_ESP32C3","https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf"
+"U2","1","HTU21D","","","","HTU21D:QFN100P300X300X100-7N",""
