@@ -513,7 +513,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "514_sensor_pcb.step",
       "svg": "",
       "vrml": ""
     },
