@@ -1,5 +1,7 @@
 # FreshSense: Smart Food Tracking and Management System
 
+📄 [View Final Presentation (PDF)](FreshsenseDeck.pdf)
+
 This smart refrigerator labeling system integrates multiple individual sensor "tags" with an external magnetic display "hub." The tags automatically monitor and record the time and humidity of stored food items from the moment they are detached from the hub. This system offers a cost-effective solution for food management and improves storage tracking to reduce waste.
 
 ![general sketch](assets/Slide1%20-%20general%20sketch.png)
